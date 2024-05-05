@@ -1,0 +1,11 @@
+body{
+    background-image: url(imagenes/vlcsnap-2023-12-01-20h10m21s739-740x430.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+a{
+    text-decoration: none !important;
+    color: white !important;
+}
